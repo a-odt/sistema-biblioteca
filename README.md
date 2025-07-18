@@ -72,4 +72,4 @@ Versão: **1.0**
 
 ## Licença
 
-Este projeto é apenas para fins educacionais e não possui uma licença específica. Fique à vontade para utilizar como base em seus estudos. 🚀
+Este projeto é apenas para fins educacionais e não possui uma licença específica. Fique à vontade para utilizar como base em seus estudos. 
